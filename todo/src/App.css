@@ -1,0 +1,12 @@
+.App-Container {
+  text-align: center;
+}
+
+.task {
+  color: rgb(121, 3, 3)
+}
+
+.complete {
+  color: green;
+  text-decoration: line-through;
+}
